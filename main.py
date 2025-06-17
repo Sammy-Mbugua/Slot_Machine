@@ -61,5 +61,7 @@ def main():
         else:
             break
     print(f"your bettting with ${bet} on {lines}.the total bet is:${total_bet}")
+
+main()
             
             
